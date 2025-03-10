@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## About Me
+Hello, I'm Rahul Singh - Electrical Engineering graduate with a minor in Economics, interested in **Robotics, AI, and Software Development**.
+
+## Connect with Me
+- Email: [rahulsingh.rs.career@gmail.com](mailto:rahulsingh.rs.career@gmail.com)
 <!--
 **rahulcomet/rahulcomet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
